@@ -1,2 +1,9 @@
-# Agri-Task-Scheduler
-Agri Scheduler is a web-based platform that helps farmers schedule agricultural tasks efficiently using inputs like crop type, land size, and weather data. It combines automation, real-time updates, and user-friendly design to make farming smarter and more productive.
+# Agri Scheduler
+
+A full-stack application to schedule agricultural tasks based on weather data, using FIFO and Priority Scheduling algorithms, with resource allocation.
+
+## Setup
+
+1. **Install Dependencies**:
+   ```bash
+   npm install
